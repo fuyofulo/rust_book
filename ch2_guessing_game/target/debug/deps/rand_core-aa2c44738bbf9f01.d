@@ -1,0 +1,11 @@
+/home/fuyofulo/100xdevs/rust_book/ch2_guessing_game/target/debug/deps/librand_core-aa2c44738bbf9f01.rmeta: /home/fuyofulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/lib.rs /home/fuyofulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/block.rs /home/fuyofulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/impls.rs /home/fuyofulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/le.rs /home/fuyofulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/os.rs
+
+/home/fuyofulo/100xdevs/rust_book/ch2_guessing_game/target/debug/deps/librand_core-aa2c44738bbf9f01.rlib: /home/fuyofulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/lib.rs /home/fuyofulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/block.rs /home/fuyofulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/impls.rs /home/fuyofulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/le.rs /home/fuyofulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/os.rs
+
+/home/fuyofulo/100xdevs/rust_book/ch2_guessing_game/target/debug/deps/rand_core-aa2c44738bbf9f01.d: /home/fuyofulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/lib.rs /home/fuyofulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/block.rs /home/fuyofulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/impls.rs /home/fuyofulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/le.rs /home/fuyofulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/os.rs
+
+/home/fuyofulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/lib.rs:
+/home/fuyofulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/block.rs:
+/home/fuyofulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/impls.rs:
+/home/fuyofulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/le.rs:
+/home/fuyofulo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/os.rs:
