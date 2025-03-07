@@ -1,0 +1,1 @@
+/home/fuyofulo/100xdevs/rust_book/ch3_common_programming_concepts/ch_3_3_functions/target/debug/ch_3_3_functions: /home/fuyofulo/100xdevs/rust_book/ch3_common_programming_concepts/ch_3_3_functions/src/main.rs

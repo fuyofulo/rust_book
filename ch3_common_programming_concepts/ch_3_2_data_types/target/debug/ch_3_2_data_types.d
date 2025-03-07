@@ -1,0 +1,1 @@
+/home/fuyofulo/100xdevs/rust_book/ch3_common_programming_concepts/ch_3_2_data_types/target/debug/ch_3_2_data_types: /home/fuyofulo/100xdevs/rust_book/ch3_common_programming_concepts/ch_3_2_data_types/src/main.rs
