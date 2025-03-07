@@ -1,0 +1,1 @@
+/home/fuyofulo/100xdevs/rust_book/ch4_ownership/function_returns_ownership/target/debug/function_returns_ownership: /home/fuyofulo/100xdevs/rust_book/ch4_ownership/function_returns_ownership/src/main.rs
