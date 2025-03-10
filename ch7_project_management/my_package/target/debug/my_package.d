@@ -1,0 +1,1 @@
+/home/fuyofulo/100xdevs/rust_book/ch7_project_management/my_package/target/debug/my_package: /home/fuyofulo/100xdevs/rust_book/ch7_project_management/my_package/src/lib.rs /home/fuyofulo/100xdevs/rust_book/ch7_project_management/my_package/src/main.rs

@@ -1,0 +1,1 @@
+/home/fuyofulo/100xdevs/rust_book/ch7_project_management/restaurant/target/debug/restaurant: /home/fuyofulo/100xdevs/rust_book/ch7_project_management/restaurant/src/lib.rs /home/fuyofulo/100xdevs/rust_book/ch7_project_management/restaurant/src/main.rs

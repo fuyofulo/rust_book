@@ -1,0 +1,1 @@
+this file is in the root folder. the project name is my_package which is the package name. it contains lib.rs and main.rs in the root folder. to access the functions in the lib.rs file, you need to specify the path and we can do so in this way: my_package::greetings => (project_name)::(module_name)::function_name as yolo and then you can use yolo as a function. 
